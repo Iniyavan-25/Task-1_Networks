@@ -1,4 +1,4 @@
-## Steps to Simulate a DNS Server
+## Steps:
 
 1. **Set Up Network Topology**:
    - Create a network topology in Cisco Packet Tracer.
