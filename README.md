@@ -6,14 +6,20 @@
 - Ensure the correct mapping of IP addresses to the domain names (use web term, browser on end devices, or ping).
 - Evaluate DNS resolution efficiency.
 
-### Steps:
+# Routing Module
 
-1. **Create a DNS Server**:
-    - Set up a DNS server that can map domain names to IP addresses.
-    
-2. **Configure DNS Mappings**:
-    - Ensure the correct mapping of IP addresses to the domain names.
-    - Use the web terminal, browser on end devices, or ping to verify the mappings.
-    
-3. **Evaluate DNS Resolution Efficiency**:
-    - Evaluate the efficiency of DNS resolution.
+## Objectives:
+- Make a small network using switches, routers, and end devices.
+- Example: Have two end devices connected to one switch (network1) and two more end devices to another switch (network2). Connect these switches with a router. Your task is to configure the router such that the end devices from network1 will be able to communicate with the end device of network2.
+- Analyze the network efficiency.
+
+# DHCP Module
+
+## Objectives:
+- Implement a DHCP server for dynamic allocation and release of IP addresses in the network.
+- Analyze how to configure and modify:
+  - Number of IP addresses
+  - Name of managing server
+  - Starting IP address
+  - Lease type
+  - Lease time
