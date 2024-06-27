@@ -32,6 +32,5 @@
    - Monitor DNS server functionality and client connectivity.
    - Adjust DNS settings as needed to ensure proper domain name resolution.
 
-9. **Save and Document**:
+9. **Save**:
    - Save the Packet Tracer simulation file.
-   - Document configurations and testing results for reference.
