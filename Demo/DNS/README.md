@@ -1,3 +1,6 @@
+## DNS IN CPT
+https://github.com/Iniyavan-25/Task-1_Networks/assets/166706764/43b89187-c773-4b0c-9be0-36e78b39ad48
+
 ## Steps:
 
 1. **Set Up Network Topology**:
