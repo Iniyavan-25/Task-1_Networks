@@ -19,9 +19,6 @@ https://github.com/Iniyavan-25/Task-1_Networks/assets/166706764/43b89187-c773-4b
      - Set the server's IP address, subnet mask, and default gateway in the device configuration.
      - Install DNS server software if applicable (emulate basic functionality in Packet Tracer).
 
-5. **Define DNS Zones and Records**:
-   - Define DNS zones and add records (A, AAAA, CNAME, MX, etc.) in the DNS configuration of the server device.
-
 6. **Configure DNS Clients**:
    - Configure client PCs to use the DNS server:
      - Set the DNS server IP address in the network settings of each client PC.
@@ -34,6 +31,3 @@ https://github.com/Iniyavan-25/Task-1_Networks/assets/166706764/43b89187-c773-4b
 8. **Monitor and Adjust**:
    - Monitor DNS server functionality and client connectivity.
    - Adjust DNS settings as needed to ensure proper domain name resolution.
-
-9. **Save**:
-   - Save the Packet Tracer simulation file.
