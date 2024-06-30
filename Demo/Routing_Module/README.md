@@ -3,6 +3,9 @@
 1. **Set Up Network Topology**:
    - Create a network topology in Cisco Packet Tracer.
    - Include end devices (PCs), switches, and routers.
+## SIMULATION;
+  https://github.com/Iniyavan-25/Task-1_Networks/assets/166706764/344f82b4-0a5f-4863-b485-f5936a6b0eca
+
 
 2. **Designate Networks**:
    - Divide the network into separate subnets using switches and connect them via routers.
